@@ -1,0 +1,5 @@
+c:\users\liliia_klymenko\documents\visual studio 2013\Projects\Task6Project\Task6Project\bin\Debug\Task6Project.exe.config
+c:\users\liliia_klymenko\documents\visual studio 2013\Projects\Task6Project\Task6Project\bin\Debug\Task6Project.exe
+c:\users\liliia_klymenko\documents\visual studio 2013\Projects\Task6Project\Task6Project\bin\Debug\Task6Project.pdb
+c:\users\liliia_klymenko\documents\visual studio 2013\Projects\Task6Project\Task6Project\obj\Debug\Task6Project.exe
+c:\users\liliia_klymenko\documents\visual studio 2013\Projects\Task6Project\Task6Project\obj\Debug\Task6Project.pdb
